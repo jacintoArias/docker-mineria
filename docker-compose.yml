@@ -2,7 +2,7 @@ version: '3'
 
 services:
     notebook:
-        image: jacintoarias/mineria
+        image: jacintoarias/docker-mineria
         ports:
             - 8888:8888
         volumes:
