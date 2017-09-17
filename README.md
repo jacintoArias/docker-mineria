@@ -1,3 +1,5 @@
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/jacintoarias/docker-mineria/)
+
 # docker-mineria
 
 This repository contains the docker image for the data mining course.
